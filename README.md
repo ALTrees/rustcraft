@@ -1,4 +1,4 @@
-# Meinkraft
+# Rustcraft
 
 A hobby project with the purpose of broadening my knowledge of Rust and OpenGL.\
 I chose to make a Minecraft clone because:
